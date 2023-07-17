@@ -26,6 +26,11 @@
               "src/styles.css"
             ],
             "scripts": [],
+            "allowedCommonJsDependencies": [
+              "@iconify/icons-fa-solid/bell-slash",
+              "@iconify/icons-mdi/group-add",
+              "@iconify/icons-mdi/home"
+            ],
             "vendorChunk": true,
             "extractLicenses": false,
             "buildOptimizer": false,
